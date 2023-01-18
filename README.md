@@ -11,8 +11,6 @@ My name is Mohammad Hossein and I love coding ...
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
-##  &#x1f4c8; GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhkhademi&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhkhademi&layout=compact)
 ![](https://activity-graph.herokuapp.com/graph?username=mhkhademi&theme=react-dark&area=true)
 
