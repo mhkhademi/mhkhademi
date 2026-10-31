@@ -1,7 +1,7 @@
 # Hey Guys ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="30px">👼
 My name is Mohammad Hossein and I love coding ...
 
-[![GITHUB](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=black&color=white)](https://github.com/m-h-kh-programmer)
+[![GITHUB](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=black&color=white)](https://github.com/mhkhademi)
 
 ## 🔧 Technologies & Tools
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -11,8 +11,6 @@ My name is Mohammad Hossein and I love coding ...
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhkhademi&layout=compact)
-![](https://activity-graph.herokuapp.com/graph?username=mhkhademi&theme=react-dark&area=true)
 
 
 
